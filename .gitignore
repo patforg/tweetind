@@ -20,3 +20,7 @@
 /target/
 /target/
 /target/
+bin/
+*.swp
+*.swo
+lib/*.jar
